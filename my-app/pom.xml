@@ -11,8 +11,8 @@
   <!-- disable git update : -Dmaven.buildNumber.doUpdate=false -->
 
   <scm>
-    <connection>scm:git:git://github.com/path_to_repository</connection>
-    <developerConnection>scm:git:git://github.com/path_to_repository</developerConnection>
+    <connection>scm:git:git://github.com/bclow/maven-gitversion.git</connection>
+    <developerConnection>scm:git:git://github.com/bclow/maven-gitversion.git</developerConnection>
 <!--
     <url>https://github.com/apache/maven/tree/${project.scm.tag}</url>
     <tag>master</tag>
